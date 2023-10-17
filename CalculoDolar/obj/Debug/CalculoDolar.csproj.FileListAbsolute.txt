@@ -1,0 +1,7 @@
+C:\Users\copag\source\repos\CalculoDolar\CalculoDolar\bin\Debug\CalculoDolar.exe.config
+C:\Users\copag\source\repos\CalculoDolar\CalculoDolar\bin\Debug\CalculoDolar.exe
+C:\Users\copag\source\repos\CalculoDolar\CalculoDolar\bin\Debug\CalculoDolar.pdb
+C:\Users\copag\source\repos\CalculoDolar\CalculoDolar\obj\Debug\CalculoDolar.csproj.AssemblyReference.cache
+C:\Users\copag\source\repos\CalculoDolar\CalculoDolar\obj\Debug\CalculoDolar.csproj.CoreCompileInputs.cache
+C:\Users\copag\source\repos\CalculoDolar\CalculoDolar\obj\Debug\CalculoDolar.exe
+C:\Users\copag\source\repos\CalculoDolar\CalculoDolar\obj\Debug\CalculoDolar.pdb
